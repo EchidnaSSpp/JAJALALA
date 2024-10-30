@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Main popka-branch");
+        System.out.println("popka_branch");
     }
 }
